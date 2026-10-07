@@ -1,4 +1,4 @@
-# Django_messageing
+# Django_messaging
 
 ## Realtime Chat App (Django Channels)
 
