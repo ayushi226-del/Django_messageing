@@ -1,7 +1,9 @@
 # Django_messageing
-# Realtime Chat App (Django Channels)
 
-[Write 1-2 lines in your own words about what this does.]
+## Realtime Chat App (Django Channels)
+
+This project is a real-time messaging application built with Django Channels.
+It allows multiple users to log in and exchange messages instantly using WebSockets.
 
 ## Features
 - User login and logout
